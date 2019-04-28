@@ -1,0 +1,98 @@
+<!-- 顶部 -->
+
+
+<view class='top-bar'>
+
+    <view class='back'></view>
+    <view class='title'>首页</view>
+    <view class='login'>登录</view>
+
+</view>
+<!-- 
+http://www.feifanedu.org//wap
+ -->
+ <view class='demo clear' >
+ <ul>
+ <li>
+ <image  src='tu/01.jpg'></image>
+ <view class='demo1'>发现课程</view>
+ </li>
+
+ <li>
+ <image  src='tu/02.jpg'></image>
+ <view class='demo1'>名师</view>
+ </li>
+
+  <li>
+ <image  src='tu/03.jpg'></image>
+ <view class='demo1'>公开课</view>
+ </li>
+
+  <li>
+ <image  src='tu/04.jpg'></image>
+ <view class='demo1'>室内景观</view>
+ </li>
+
+   <li>
+ <image  src='tu/05.jpg'></image>
+ <view class='demo1'>平面设计</view>
+ </li>
+
+   <li>
+ <image  src='tu/06.jpg'></image>
+ <view class='demo1'>平面</view>
+ </li>
+
+   <li>
+ <image  src='tu/07.jpg'></image>
+ <view class='demo1'>网页设</view>
+ </li>
+
+   <li>
+ <image  src='tu/08.jpg'></image>
+ <view class='demo1'>办公</view>
+ </li>
+
+ </ul>
+ 
+ </view>
+
+<view class='top-bar2'>
+
+    <view class='back'>推荐课程</view>
+    <view class='title'></view>
+    <view class='login'>更多</view>
+
+</view>
+
+
+  <view class='sp clear'>
+ <ul>
+ <li>
+ <image  src='tu/01.jpg'></image>
+ <view class='sp1'>商务应用</view>
+ <view class='sp2'>人数：999</view>
+ <view class='sp3'>价格：888.00</view>
+ </li>
+
+ <li>
+ <image  src='tu/02.jpg'></image>
+<view class='sp1'>就业指导课</view>
+ <view class='sp2'>人数：999</view>
+ <view class='sp3'>价格：888.00</view>
+ </li>
+
+ </ul>
+ 
+ </view>
+
+
+
+
+<!-- 底部 -->
+<view class='dibu'>
+<import src="/templates/footer.wxml" />
+<template is="footer"  />
+</view>
+
+
